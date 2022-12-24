@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017506329567",
+    "project_id": "bbm-75",
+    "storage_bucket": "bbm-75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017506329567:android:95e0f5b3f5b7ccf6280a6a",
+        "android_client_info": {
+          "package_name": "com.pantho.bbm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017506329567-67mg21vjv9lmlldfbmrrlkf5mi92jh69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3h4I1d0EGTuDRfiWCuSI12P_bpqshtfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017506329567-67mg21vjv9lmlldfbmrrlkf5mi92jh69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
